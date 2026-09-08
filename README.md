@@ -43,4 +43,4 @@ The goal was to analyze user lifecycle patterns and compare **Retention Rates** 
 
 ## 📂 Project Assets
 * `cohort_retention_pipeline.sql` — Complete PostgreSQL script containing multi-step CTE transformations and aggregate queries.
-* [Google Sheets Dashboard]((https://docs.google.com/spreadsheets/d/1oR7mRIWOES0HSNi3FDdqGbsg3hnp7jBPSPMhLXbMr_E/edit?gid=681639436#gid=681639436)) — Interactive cohort tables and slicer-driven charts *(make sure sharing is set to "Anyone with the link can view")*.
+* [Google Sheets Dashboard](https://docs.google.com/spreadsheets/d/1oR7mRIWOES0HSNi3FDdqGbsg3hnp7jBPSPMhLXbMr_E/edit?gid=681639436#gid=681639436) — Interactive cohort tables and slicer-driven charts *(make sure sharing is set to "Anyone with the link can view")*.
